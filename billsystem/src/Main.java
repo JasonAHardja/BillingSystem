@@ -76,4 +76,4 @@ public class Main {
 //This is mainly where the inputs happen.
 //Uses many else ifs for straightforward prompts instead of complicated orders
 //To load a bill, you must first save the bill and then run it again and load the bill's name.
-
+//Has many equalsIgnoreCases so the upper and lower class of a letter doesnt matter
