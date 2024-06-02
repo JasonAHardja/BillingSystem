@@ -12,7 +12,7 @@ public class Bill {
         items = new ArrayList<>();
         discount = 0;
         taxRate = 0;
-    }
+    } //when creating a bill, all the items and stored into a list and then put into the bill
 
     public void addItem(Item item) {
         items.add(item);
