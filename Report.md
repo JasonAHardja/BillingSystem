@@ -1,5 +1,5 @@
 # OOP Final Project
-The Final Project is a Game made using IntelliJ.
+The Final Project is a System made using IntelliJ.
 
 ### Table of Content 
 - [Information](#information)
